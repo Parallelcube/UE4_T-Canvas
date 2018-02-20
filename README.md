@@ -1,21 +1,19 @@
-# UE4_Tutorial-Leaderboard
-UE4 tutorial Leaderboard Project
+# UE4_T-Canvas
+UE4 tutorial Drawing canvas
 
-## How to make an online leaderboard
+## Dynamic Textures Introduction: Drawing canvas and decals
 
-A leaderboard is a must have in any actual online game, with this tutorial we will learn how to create and setup a leaderboard system, in the first two parts we talk about the server and client parts, in a engine-independent way, and the last one is focused on how to integrate it in Unreal engine 4.
+We have seen how to modify dynamically and apply effects on textures in previous tutorials, but sometimes we need to create this texture dynamically too. One nice example of this is a drawing canvas. With this tutorial we are going to add a tool to print decals into this canvas too. It's a good example to explain how to load images and extract their pixel information using C++ code.
 
-* [Part 1: Server files](https://www.parallelcube.com/2017/11/08/online-leaderboard-part-1/)
-* [Part 2: Client files](https://www.parallelcube.com/2017/11/14/online-leaderboard-part-2/)
-* [Part 3: UE4 game integration](https://www.parallelcube.com/2017/11/15/online-leaderboard-part-3/)
+* [Part 1: Drawing Canvas](https://www.parallelcube.com/2018/01/08/dynamic-texture-introduction-drawing-canvas/)
+* [Part 2: Adding decals](https://www.parallelcube.com/2018/01/24/dynamic-textures-decals/)
 
-## Cómo crear una tabla de clasificación online
+## Texturas Dinámicas: Como crear un lienzo de dibujo y dibujar sobre el
 
-Una tabla de clasificación es algo obligatorio en prácticamente cualquier juego online actual, con este tutorial vamos a aprender a crear y configurar un sistema con tabla de puntuaciones, en las primeras dos partes hablaremos, intentando que sea lo más independiente del motor posible, de lo relacionado con el servidor y el cliente, y en la tercera parte nos centraremos en la integración con el Unreal engine 4.
+Ya hemos visto como modificar dinámicamente y aplicar efectos a texturas en tutoriales anteriores, pero en ocasiones necesitamos crear esta textura dinámicamente también. Un buen ejemplo de esto es un lienzo de dibujo. En este tutorial vamos a añadir una herramienta más que nos servirá para imprimir calcomanías. Es un buen ejemplo para explicar como cargar imágenes y extraer la información de sus píxeles usando C++.
 
-* [Parte 1: Archivos del servidor](https://www.parallelcube.com/es/2017/11/17/tabla-de-clasificacion-online-parte-1/)
-* [Parte 2: Archivos del cliente](https://www.parallelcube.com/es/2017/11/18/tabla-de-clasificacion-online-parte-2/)
-* [Parte 3: Integración con el proyecto UE4](https://www.parallelcube.com/es/2017/11/20/tabla-de-clasificacion-online-parte-3/)
+* [Parte 1: Lienzo de dibujo](https://www.parallelcube.com/es/2018/01/12/texturas-dinamicas-lienzo-de-dibujo/)
+* [Parte 2: Añadiendo decals](https://www.parallelcube.com/es/2018/01/25/texturas-dinamicas-calcomanias/)
 
 ## More UE4 Tutorials and gamedev
 
